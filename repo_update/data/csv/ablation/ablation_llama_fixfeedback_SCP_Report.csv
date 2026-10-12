@@ -1,0 +1,41 @@
+Model,Task_ID,Experimental_Arm,Structural_Collapse_Point_k
+llama3.2:3b,HumanEval_18,Compiler_Grounded_Feedback,1
+llama3.2:3b,HumanEval_23,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_64,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_86,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_93,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_111,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_141,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_149,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_158,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_162,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_2,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_25,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_31,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_36,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_39,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_49,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_63,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_102,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_128,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_157,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_0,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_3,Compiler_Grounded_Feedback,1
+llama3.2:3b,HumanEval_4,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_21,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_26,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_33,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_40,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_48,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_122,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_136,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_56,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_68,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_105,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_108,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_118,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_135,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_137,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_124,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_143,Compiler_Grounded_Feedback,No Collapse Detected
+llama3.2:3b,HumanEval_154,Compiler_Grounded_Feedback,No Collapse Detected

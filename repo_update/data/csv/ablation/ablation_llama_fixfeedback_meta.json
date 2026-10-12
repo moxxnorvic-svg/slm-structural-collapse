@@ -1,0 +1,28 @@
+{
+  "started": "2026-10-07 18:15:02",
+  "args": {
+    "prepare_data": false,
+    "use_fallback": false,
+    "model": "llama3.2:3b",
+    "turns": 15,
+    "timeout": 5,
+    "workers": 1,
+    "generate_reports": false,
+    "run_all": false,
+    "out": "ablation_llama_fixfeedback.json",
+    "seed": 42,
+    "fix_pass_feedback": true,
+    "resume": false,
+    "arms": "compiler"
+  },
+  "run_cfg": {
+    "seed": 42,
+    "fix_pass_feedback": true,
+    "out": "ablation_llama_fixfeedback.json",
+    "arms": [
+      "compiler"
+    ]
+  },
+  "ollama_version": "ollama version is 0.32.15",
+  "ollama_list": "NAME                              ID              SIZE      MODIFIED       \nllama3.2:3b                       a80c4f17acd5    2.0 GB    26 seconds ago    \nphi3:3.8b                         4f2222927938    2.2 GB    6 weeks ago       \nqwen2.5-coder:3b                  f72c60cabf62    1.9 GB    3 months ago      \ndeepseek-r1:8b                    6995872bfe4c    5.2 GB    3 months ago      \nnomic-embed-text:latest           0a109f422b47    274 MB    3 months ago      \nqwen3.5:2b                        324d162be6ca    2.7 GB    3 months ago      \nlfm2.5-thinking:latest            95bd9d45385f    731 MB    3 months ago      \nministral-3:14b-cloud             615c59440878    -         3 months ago      \nkimi-k2.6:cloud                   a90cd0d1590c    -         3 months ago      \nminimax-m3:cloud                  d03a959f45c0    -         3 months ago      \nmistral-large-3:675b-cloud        3130fd5a5a1e    -         3 months ago      \nnomic-embed-text-v2-moe:latest    ff9c2f10ef5e    957 MB    3 months ago      \nglm-4.7:cloud                     023608864819    -         3 months ago      \nglm-5.2:cloud                     ce8fd6f94793    -         3 months ago      \n"
+}

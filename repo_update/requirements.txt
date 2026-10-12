@@ -1,0 +1,17 @@
+# ══════════════════════════════════════════════════════
+#  SLM Structural Collapse Lab — Python Dependencies
+#  Compatible with Python 3.9+
+# ══════════════════════════════════════════════════════
+
+pandas
+numpy
+scipy
+requests
+zss
+datasets
+statsmodels
+lifelines
+matplotlib
+========================================
+python analyze_scp.py data/experiment_results.json
+python run_eval_v2.py --model qwen2.5-coder:3b --arms compiler --fix-pass-feedback --out ablation_qwen_fixfeedback.json
